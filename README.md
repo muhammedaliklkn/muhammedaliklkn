@@ -23,17 +23,18 @@
 ![OpenCart](https://img.shields.io/badge/OpenCart-38B0E3?style=for-the-badge&logo=opencart&logoColor=white)
 
 **Aşina Olduğum / Üzerinde Çalıştığım:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📈 GitHub İstatistiklerim
+### GitHub İstatistiklerim
 ![Muhammet's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedaliklkn&show_icons=true&theme=tokyonight)
 
 ---
 
-### 📫 Bana Ulaşın
+### Bana Ulaşın
 * **LinkedIn:** [linkedin.com/in/muhammedaliklkn](https://linkedin.com/in/muhammedaliklkn)
 * **E-Posta:** muhammedalikalkan619@gmail.com
