@@ -1,6 +1,6 @@
 # Merhaba, Ben Muhammet Ali Kalkan! 
 
-**Yönetim Bilişim Sistemleri (YBS) Öğrencisi | Teknoloji & E-Ticaret Meraklısı**
+**Yönetim Bilişim Sistemleri (YBS) Öğrencisi | Teknoloji & E-Ticaret
 
 İstanbul Topkapı Üniversitesi'nde YBS eğitimime devam ederken, dijital dünyada iş süreçlerini kolaylaştıracak projeler geliştiriyorum. Özellikle web teknolojileri ve e-ticaret altyapıları üzerine yoğunlaşıyorum.
 
